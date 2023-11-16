@@ -1,0 +1,9 @@
+sdk.dir=C:\\Users\\vikki\\AppData\\Local\\Android\\Sdk
+flutter.sdk=C:\\src\\flutter
+flutter.buildMode=release
+flutter.versionName=1.0.0
+flutter.versionCode=9
+flutter.compileSdkVersion=33
+flutter.minSdkVersion=33
+flutter.targetSdkVersion=33
+applicationId=com.lab.anugerah_mobile
